@@ -1,0 +1,34 @@
+{
+  "name": "open-prh",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petja/open-prh.git"
+  },
+  "keywords": [
+    "prh",
+    "open",
+    "data",
+    "open",
+    "data",
+    "patentti",
+    "rekisteri",
+    "hallitus",
+    "avoin",
+    "ytj",
+    "yritys",
+    "tietojärjestelmä",
+    "finland"
+  ],
+  "author": "Petja Touru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petja/open-prh/issues"
+  },
+  "homepage": "https://github.com/petja/open-prh#readme"
+}
