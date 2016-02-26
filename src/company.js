@@ -26,11 +26,3 @@ class prhCompany {
 }
 
 module.exports = prhCompany;
-
-prhCompany.findById('0110139-9')
-    .then(function(company){
-        console.log(company);
-    })
-    .catch(function(err){
-        throw err;
-    });
